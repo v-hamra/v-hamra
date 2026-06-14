@@ -2,7 +2,7 @@
 
 🎵 → 💻 — From music to migrations.
 
-I'm a **GitHub Expert Services Consultant** helping enterprise customers get the most out of the GitHub platform. I partner with engineering leaders and platform teams to design governance strategies, accelerate migrations, and enable developer productivity at scale.
+I'm a **GitHub Partner / Part of GitHub Expert Services Consultant** helping enterprise customers get the most out of the GitHub platform. I partner with engineering leaders and platform teams to design governance strategies, accelerate migrations, and enable developer productivity at scale.
 
 ---
 
