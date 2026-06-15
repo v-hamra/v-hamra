@@ -9,9 +9,9 @@ I'm a **DevOps Consultant / GitHub Partner / Part of GitHub Expert Services** he
 ## 🚀 What I help customers with
 
 - 🏛️ **GitHub Enterprise Governance** — org structure, rulesets, custom properties, team topologies, and sensible defaults
-- 🚢 **Migrations** — Bitbucket / GitLab / GHES → GHEC (EMU), Mercurial → Git, large-scale repo migrations with GEI
+- 🚢 **Migrations** — Bitbucket / GitLab / GHES → GHEC (EMU), large-scale repo migrations with GEI
 - 🤖 **GitHub Copilot** — enablement strategy, policy configuration, adoption measurement
-- 🛡️ **GitHub Advanced Security (GHAS)** — code scanning, secret scanning, security configurations, Dependabot
+- 🛡️ **GitHub Advanced Security (GHAS)** — code scanning, secret scanning, security configurations, CodeQL, Dependabot
 - ⚙️ **GitHub Actions & Runners** — workflow design, self-hosted runners (ARC v2), reusable workflows, governance
 - 🔐 **Identity & Access** — Entra ID / SCIM provisioning, EMU configuration, SSO federation
 - 🌍 **Data Residency** — GHEC EU (`ghe.com`), compliance patterns (DORA, GDPR, GxP)
