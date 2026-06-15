@@ -1,6 +1,6 @@
 # Hi, I'm Virginia 👋
 
-🎵 → 💻 — From music to migrations.
+🎵 → 💻 — From music to GitHub Consultant.
 
 I'm a **DevOps Consultant / GitHub Partner / Part of GitHub Expert Services** helping enterprise customers get the most out of the GitHub platform. I partner with engineering leaders and platform teams to design governance strategies, accelerate migrations, and enable developer productivity at scale.
 
