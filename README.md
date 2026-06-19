@@ -14,6 +14,7 @@ I'm a **DevOps Consultant / GitHub Partner / Part of GitHub Expert Services** he
 - 🛡️ **GitHub Advanced Security (GHAS)** — code scanning, secret scanning, security configurations, CodeQL, Dependabot
 - ⚙️ **GitHub Actions & Runners** — workflow design, self-hosted runners (ARC v2), reusable workflows, governance
 - 🔐 **Identity & Access** — Entra ID / SCIM provisioning, EMU configuration, SSO federation
+- 🖥️ **GHES Administration** — `ghe-console` (Rails console), fork-network diagnostics, repository maintenance, and on-prem troubleshooting
 - 🌍 **Data Residency** — GHEC EU (`ghe.com`), compliance patterns (DORA, GDPR, GxP)
 
 ---
@@ -21,9 +22,11 @@ I'm a **DevOps Consultant / GitHub Partner / Part of GitHub Expert Services** he
 ## 🛠️ Tech & tools
 
 ![GitHub Enterprise](https://img.shields.io/badge/-GitHub%20Enterprise-000000?style=flat-square&logo=github&logoColor=white)
+![GHES](https://img.shields.io/badge/-GHES%20%2F%20ghe--console-24292f?style=flat-square&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-2EA043?style=flat-square&logo=githubcopilot&logoColor=white)
 ![GitHub Advanced Security](https://img.shields.io/badge/-GitHub%20Advanced%20Security-6e40c9?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ARC v2](https://img.shields.io/badge/-ARC%20v2%20Runners-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
